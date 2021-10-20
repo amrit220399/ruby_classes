@@ -1,0 +1,12 @@
+Geocoder GEM
+
+1. Needed For GeoCoding and Reverse GeoCoding
+
+GeoCoding : Convert Address Line to Coordinates which is Latitude/Longitude form
+
+Reverse Geocoding : Convert Lat/Lng to Address Line containing City, State, Country and Pincode
+
+2. Used To Store Location in the form of GeoPoint in the database
+
+3. Work with Maps like GoogleMaps, MapMyIndia to mark the location markers if we 
+	are working with Places or Navigation.   
